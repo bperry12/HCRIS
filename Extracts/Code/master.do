@@ -1,0 +1,6 @@
+do "Code/init_baseline.do"
+do "Code/init_S2.do"
+do "Code/init_A.do"
+do "Code/init_A7.do"
+do "Code/init_B1.do"
+do "Code/init_C.do"

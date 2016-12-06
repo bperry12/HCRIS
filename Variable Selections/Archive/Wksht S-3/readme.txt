@@ -1,0 +1,1 @@
+Notes:	Extract bed, inpatient/outpatient days, and discharge information.
